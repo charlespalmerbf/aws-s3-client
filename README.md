@@ -1,6 +1,6 @@
 # AWS S3 Client
 
-This is a simple JavaScript application that allows you to upload, download, and view files in an AWS S3 bucket. It uses the AWS SDK for JavaScript to interact with S3 and supports pulling credentials from a `.env` file.
+This is a simple node application that allows you to upload, download, and view files in an AWS S3 bucket. It uses the AWS SDK for JavaScript to interact with S3 and supports pulling credentials from a `.env` file.
 
 ## Prerequisites
 
